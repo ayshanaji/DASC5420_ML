@@ -2,9 +2,9 @@
 
 ## Overview
 This repository contains the Jupyter notebook (predict.ipynb) that demonstrates two objectives:
-- Objective 1/:
+- Objective 1:
     - Our study strategically analyzes Spotify data to identify the key factors that drive songs to popularity. By quantitatively evaluating popularity and categorizing tracks as either 'popular' or 'not' using a median score, we place particular emphasis on numeric variables that have shown significance in previous studies.
-- Objective 2/:
+- Objective 2:
     - Our second goal is to redefine genre classification by capturing the actual sound and emotional texture of music, transcending traditional labels, and aligning more closely with the essence of each track by using PC Biplot with K means clustering 
 
 ## Dataset
@@ -15,9 +15,9 @@ information about music, including key attributes that define each track.[Spotif
 
 
 ## File Structure
-- code/:
+- code:
   - predict.ipynb: Jupyter notebook containing all the analysis code, including data preprocessing, model training, evaluation, and prediction.
-- code/:
+- code:
   - Spotify Tracking dataset.
 
 ## Models
