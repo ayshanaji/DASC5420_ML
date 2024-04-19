@@ -1,5 +1,6 @@
-# Analysis of Spotify Rhythms
-
+# Spotify tracking Analysis
+## Project done by 
+Ayisha C O K and Sepideh 
 ## Overview
 This repository contains the Jupyter notebook (predict.ipynb) that demonstrates two objectives:
 - Objective 1:
@@ -36,8 +37,8 @@ Neural Networks are computing systems vaguely inspired by the biological neural 
 ### Logistic Regression
 Logistic Regression is a statistical model that in its basic form uses a logistic function to model a binary dependent variable, although many more complex extensions exist.
 
-### Bagging and Boosting
-Bagging and Boosting are both ensemble techniques to create a strong learning algorithm by combining the predictions from several weak learners. Bagging helps to reduce variance, and Boosting helps to reduce bias in the model.
+### Gradient Boosting
+Gradient boosting is a powerful machine-learning technique that improves predictions by combining multiple models sequentially.
 
 ### Support Vector Machine (SVM)
 Support Vector Machine (SVM) is a supervised machine learning algorithm which can be used for classification or regression problems. It uses a technique called the kernel trick to transform the data and then based on these transformations it finds an optimal boundary between the possible outputs.
